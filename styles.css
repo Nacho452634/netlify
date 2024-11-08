@@ -14,3 +14,10 @@ p{
     color: orange;
     text-align: center;
 }
+
+img{
+    margin: 20px auto;
+    display: block;
+    width: 350px;
+    margin-top: 5rem;
+}
